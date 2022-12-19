@@ -111,27 +111,26 @@ section {
 .important-introduction > li{
   width: 95%;
 }
-/* INTRODUCTION END */
- 
+
+/* =============================================== INTRODUCTION END  =============================================== */
+
 section>h2 {
   color: var(--blue);
   font-size: 26px;
 }
- 
+
 h2 {
   border-bottom: var(--white) 2px solid;
   margin-bottom: 1rem;
 }
- 
+
 /* header */
 .fotos-header-onderdeel-desktop{
   width: 650px;
 }
 /* header end */
 
-
-/* LOGO */
-
+/*  =============================================== LOGO  ===============================================*/
 
 .container-logo-img {
   display: flex;
@@ -143,15 +142,9 @@ h2 {
   height: auto; 
 }
 
-
-
-
 /* LOGO END */
 
-
-
- 
-/* iCONS END */
+/*  =============================================== ICONS =============================================== */
 .icons {
   border-left: 7px solid var(--light-blue);
   padding: 1em;
@@ -179,7 +172,7 @@ h2 {
 }
 /* ICONS END */
  
-/*TYPOGRAFIE*/
+/*  =============================================== TYPOGRAFIE  ===============================================*/
 .typografie-container{
   display: flex;
   flex-direction: column;
@@ -226,9 +219,11 @@ h2 {
   width: 20rem;
 }
 /* TYPOGRAFIE END */
- 
-/* FROM: Hier wordt het kopje "Tekst input" weergegeven */
- 
+
+/*  =============================================== Form  =============================================== */
+
+/*Hier wordt het kopje "Tekst input" weergegeven */
+
 .container-anatomy-1,
 .container-anatomy-2 {
  display: flex;
@@ -338,8 +333,7 @@ input, label, textarea {
  }
 
 
- 
-/* BUTTONS  */
+/*  =============================================== BUTTONS  ===============================================  */
 .gebruik1 {
   width: 23em;
 }
@@ -441,7 +435,7 @@ td {
 
 /* BUTTONS END */
  
-/* TYPOGRAFIE */
+/*  =============================================== TYPOGRAFIE   ===============================================*/
  
 .text-alignment img{
   width: 80%;
@@ -501,7 +495,7 @@ table {
 }
 /*TYPOGRAFIE END*/
  
-/* KLEUR */
+/*  =============================================== KLEUR  =============================================== */
 .section-color>img:last-child {
   padding-top: 50px;
 }
@@ -513,13 +507,13 @@ padding-top: 50px;
 
 /* KLEUR END */
  
-/* RESPONSIVE */
+/*  =============================================== RESPONSIVE  =============================================== */
 .layout-text {
   margin-top: 3vh;
 }
 /* RESPONSIVE END */
  
-/* BEELDGEBRUIK */
+/*  =============================================== BEELDGEBRUIK =============================================== */
 .code-voorbeeld-beeldgebruik{
   float:right;
   padding-right: 90px;
@@ -549,7 +543,7 @@ padding-top: 50px;
 }
 /* BEELDGEBRUIK END */
  
-/* FOOTER */
+/*  =============================================== FOOTER  =============================================== */
 .footer-article {
   display: flex;
   justify-content: flex-start;
